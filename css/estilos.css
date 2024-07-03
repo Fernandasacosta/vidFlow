@@ -33,6 +33,7 @@ body {
     height: 80px;
     width: 100%;
     padding: 0 25px;
+   
 }
 
 .logo__item {
@@ -246,6 +247,7 @@ body {
     top: 80px;
     right: 0;
     left: 0;
+
     /* transition: transform 0.5s ease-in-out;
     transform: translateX(0); */
 }
